@@ -52,3 +52,5 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 1. Clone this repository:
    ```bash
    git clone https://github.com/Josiah4191/coffee-shop-database.git
+
+---
