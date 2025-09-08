@@ -45,9 +45,7 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 - Junction table linking recipes to ingredients.
 - Specifies the quantity of each ingredient required.
 
----
-
-## How to Use
+## Setup
 
 1. Clone this repository:
    ```bash
