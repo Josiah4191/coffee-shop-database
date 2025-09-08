@@ -15,35 +15,35 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 ### **Database Name**
 - JKGPDatabase
 
-## **Tables**
+### **Tables**
 
-### **Employees**
-- Stores employee details (name, position, role).
-- Each employee can be assigned to multiple shifts.
+- **Employees**
+  - Stores employee details (name, position, role).
+  - Each employee can be assigned to multiple shifts.
 
-### **ShiftTypes**
-- Defines categories of shifts (e.g., Morning, Afternoon, Evening).
+- **ShiftTypes**
+  - Defines categories of shifts (e.g., Morning, Afternoon, Evening).
 
-### **Shifts**
-- Represents scheduled shifts with a date and shift type.
+- **Shifts**
+  - Represents scheduled shifts with a date and shift type.
 
-### **ShiftAssignments**
-- Junction table linking employees to shifts.
-- Ensures every shift has exactly three employees, including a manager or shift lead.
+- **ShiftAssignments**
+  - Junction table linking employees to shifts.
+  - Ensures every shift has exactly three employees, including a manager or shift lead.
 
-### **Ingredients**
-- Represents inventory items (e.g., coffee beans, milk, sugar).
+- **Ingredients**
+  - Represents inventory items (e.g., coffee beans, milk, sugar).
 
-### **MenuItems**
-- Stores the products sold at the coffee shop (e.g., Latte, Cappuccino, Muffin).
+- **MenuItems**
+  - Stores the products sold at the coffee shop (e.g., Latte, Cappuccino, Muffin).
 
-### **Recipes**
-- Defines how menu items are made.
-- Each recipe links to one menu item.
+- **Recipes**
+  - Defines how menu items are made.
+  - Each recipe links to one menu item.
 
-### **RecipeIngredients**
-- Junction table linking recipes to ingredients.
-- Specifies the quantity of each ingredient required.
+- **RecipeIngredients**
+  - Junction table linking recipes to ingredients.
+  - Specifies the quantity of each ingredient required.
 
 ## Setup
 1. Clone or download this repository.  
