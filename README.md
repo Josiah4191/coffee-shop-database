@@ -16,6 +16,9 @@ Goals:
 
 ## Database Schema
 
+### **Database Name**
+- JKGPDatabase;
+
 ### **Employees**
 - Stores employee details (name, position, role).
 - Each employee can be assigned to multiple shifts.
