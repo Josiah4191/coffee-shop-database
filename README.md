@@ -15,6 +15,8 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 ### **Database Name**
 - JKGPDatabase
 
+## **Tables**
+
 ### **Employees**
 - Stores employee details (name, position, role).
 - Each employee can be assigned to multiple shifts.
