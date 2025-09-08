@@ -17,7 +17,7 @@ Goals:
 ## Database Schema
 
 ### **Database Name**
-- JKGPDatabase;
+- JKGPDatabase
 
 ### **Employees**
 - Stores employee details (name, position, role).
