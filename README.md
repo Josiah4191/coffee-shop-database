@@ -44,9 +44,7 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 - Specifies the quantity of each ingredient required.
 
 ## Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Josiah4191/coffee-shop-database.git
+1. Clone or download this repository.  
+2. Run the `.sql` scripts in your SQL Server environment to create and populate the database.  
 
 ---
