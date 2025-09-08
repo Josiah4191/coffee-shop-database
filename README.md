@@ -1,12 +1,10 @@
 # Coffee Shop Database
 
-This group project models a coffee shop’s operations using SQL Server. It demonstrates database design, normalization, and relational integrity while supporting use cases such as employee scheduling, inventory tracking, and recipe management.
-
 ---
 
 ## Project Overview
 
-The database was designed as part of an academic project to simulate the daily operations of a coffee shop. It includes tables for managing employees, shifts, menu items, recipes, and ingredients.
+This group project models a coffee shop’s operations using SQL Server. It demonstrates database design, normalization, and relational integrity while supporting use cases such as employee scheduling, inventory tracking, and recipe management.
 
 Goals:
 - Practice SQL schema design and normalization.
