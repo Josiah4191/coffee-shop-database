@@ -1,9 +1,3 @@
-/* ************************************************************/
-/* ProductManagementMC Role Creation Script                   */
-/* Coded by: Matthew Culpepper                                */
-/* Coded on: 07/25/25                                         */
-/* ************************************************************/
-
 USE JKGPDatabase;
 
 GO
