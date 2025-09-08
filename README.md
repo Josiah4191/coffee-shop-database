@@ -8,7 +8,7 @@ This group project models a coffee shop’s operations using SQL Server. It demo
 
 The database was designed as part of an academic project to simulate the daily operations of a coffee shop. It includes tables for managing employees, shifts, menu items, recipes, and ingredients.
 
-Key goals:
+Goals:
 - Practice SQL schema design and normalization.
 - Support employee scheduling and shift assignments.
 - Track menu items and the recipes that define them.
